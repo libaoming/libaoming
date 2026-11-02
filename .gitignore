@@ -1,0 +1,9 @@
+.DS_Store
+avatar.png
+profile.json
+public-repos.json
+repos-pages.json
+preview*.png
+preview.html
+__pycache__/
+created-repo.json
