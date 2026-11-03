@@ -72,10 +72,10 @@
 <path d="M526.2 410H932" stroke="#6e7681"/>
 <text x="405" y="441" fill="#ffa657" xml:space="preserve">Public repos:</text>
 <path d="M514.2 439H900.8" stroke="#6e7681" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="932" y="441" text-anchor="end" fill="#c9d1d9" xml:space="preserve">105</text>
+<text x="932" y="441" text-anchor="end" fill="#c9d1d9" xml:space="preserve">106</text>
 <text x="405" y="465" fill="#ffa657" xml:space="preserve">Original repos:</text>
-<path d="M529.8 463H908.6" stroke="#6e7681" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="932" y="465" text-anchor="end" fill="#c9d1d9" xml:space="preserve">99</text>
+<path d="M529.8 463H900.8" stroke="#6e7681" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="932" y="465" text-anchor="end" fill="#c9d1d9" xml:space="preserve">100</text>
 <text x="405" y="489" fill="#ffa657" xml:space="preserve">Stars on original repos:</text>
 <path d="M600.0 487H908.6" stroke="#6e7681" stroke-width="2" stroke-dasharray="2 5"/>
 <text x="932" y="489" text-anchor="end" fill="#c9d1d9" xml:space="preserve">14</text>
@@ -85,5 +85,5 @@
 <text x="405" y="537" fill="#ffa657" xml:space="preserve">Following:</text>
 <path d="M490.8 535H908.6" stroke="#6e7681" stroke-width="2" stroke-dasharray="2 5"/>
 <text x="932" y="537" text-anchor="end" fill="#c9d1d9" xml:space="preserve">23</text>
-<text x="405" y="563" fill="#6e7681" xml:space="preserve" style="font-size:10px">Updated 2026-11-02 · public GitHub data</text>
+<text x="405" y="563" fill="#6e7681" xml:space="preserve" style="font-size:10px">Updated 2026-11-03 · public GitHub data</text>
 </svg>
